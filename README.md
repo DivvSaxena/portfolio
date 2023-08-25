@@ -10,7 +10,7 @@ Welcome to the first version of my personal portfolio website! This project was 
 
 - **Semantic HTML:** The portfolio is structured using semantic HTML elements, ensuring a clear and meaningful layout while improving accessibility and SEO optimization.
 
-- **Stylish Design:** The design of the portfolio is crafted to be visually appealing and user-friendly. Careful consideration was given to the color scheme, typography, and overall layout.
+- **Stylish Design:** The design of the portfolio is crafted to be visually appealing , inspired from scrimba and user-friendly. Careful consideration was given to the color scheme, typography, and overall layout.
 
 - **Three Sections:**
 
