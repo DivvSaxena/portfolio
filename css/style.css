@@ -1,5 +1,5 @@
 body {
-    text-align: center;
+    
     font-family: 'Roboto', sans-serif;
     font-size: 21px;
     font-weight: 300;
@@ -9,6 +9,7 @@ body {
 .container {
     width: 670px;
     margin: 0 auto;
+    text-align: center;
 }
 
 h1,
@@ -113,4 +114,37 @@ body {
   padding-top: 5em;
   display: flex;
   justify-content: center;
+}
+
+footer{
+    background: #000;
+    color: #fff; 
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+}
+.footer-content{
+    font-size: 15px;
+    padding: 15px 10px;
+    width: 500px;
+}
+.footer-content h1{
+    font-size: 30px;
+    padding-top: 50px;
+    line-height: 2px;
+}
+
+.main-footer__social-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+}
+.main-footer__icon{
+    width: 40px;
+}
+
+.main-footer__icon:hover{
+    width: 50px;
 }
